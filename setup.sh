@@ -42,4 +42,4 @@ esac
 #install_dependencies
 #install_suckless
 
-# ToDo: 1. Tweak DWM to your liking, 2. add compiling function to this script 
+# ToDo: 1. Tweak DWM to your liking, 2. add compiling function to this script, (3. Add Github Action for already compiled version)
